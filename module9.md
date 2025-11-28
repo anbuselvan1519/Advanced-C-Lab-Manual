@@ -1,6 +1,6 @@
 ## EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
 ### NAME:ANBUSELVAN S
-### REG NO 212223240008
+### REG NO:212223240008
 ### DEPT:AIML
 ### Aim:
 To write a C program to display stack elements using an array.
