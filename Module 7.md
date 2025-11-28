@@ -1,6 +1,6 @@
 ## EXP NO:1 C Program FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 ### NAME:ANBUSELVAN S
-### REG NO 212223240008
+### REG NO:212223240008
 ### DEPT:AIML
 ### Aim:
 To write a C Program for array of structure to check eligibility for the vaccine person age above 6 years of age.
