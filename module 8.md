@@ -1,6 +1,6 @@
 ## EXP NO:6 C  Program PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
 ### NAME:ANBUSELVAN S
-### REG NO 212223240008
+### REG NO:212223240008
 ### DEPT:AIML
 ### Aim:
 To write a C Program print the lowercase English word corresponding to the number
